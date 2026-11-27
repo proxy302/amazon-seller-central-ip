@@ -45,7 +45,7 @@ Rules that follow from the table:
 | Price | 12 PTC per 30 days, first IP 6 PTC | $0.50 for 1 day, $7.99 for 30 days, the same in every country |
 | Longer terms | Renew every 30 days | Also 60 days $15.98 and 90 days $23.97 |
 
-Black Friday, 24 Nov to 1 Dec 2026 (UTC+8): the regular static ISP IP costs $14.00 for 60 days and $18.00 for 90 days (1 to 30 days unchanged).<!-- bf2026 -->
+Black Friday, 24 Nov to 4 Dec 2026 (UTC+8): the regular static ISP IP costs $14.00 for 60 days and $18.00 for 90 days (1 to 30 days unchanged).<!-- bf2026 -->
 
 Choose Amazon ISP when Seller Central is the only thing the IP is for and you want the pre-delivery check. Choose a regular static ISP IP when the same business also runs a shop on another platform, or to try the setup for a day first. Both keep their address for the whole term. Rotating residential traffic ($1.50/GB) is only for logged-out checks, such as viewing your listing as a shopper in another marketplace; never sign in to Seller Central through it. The countries offered are on the order page, and all prices are on [proxy302.com/pricing](https://proxy302.com/pricing/).
 
